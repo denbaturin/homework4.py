@@ -1,4 +1,4 @@
-my_string = 'Здесь некоторый интересный текст, который необходимо озадачить'
+my_string = input('Введите текст: ')
 print(len(my_string))
 print(my_string.upper())
 print(my_string.lower())
